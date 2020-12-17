@@ -14,6 +14,6 @@ v1 has "mixed" line endings, whereas v2 has windows line endings
 
 This additional line in v2 makes the xml invalid
 
-![v2 xml invalid](v2%20xml%20invalid.png)("v2 xml invalid")
+![Screenshot v2 xml invalid](v2%20xml%20invalid.png "Screenshot v2 xml invalid")
 
 ![Screenshot solution xml (WinMerge)](solution%20xml%20(WinMerge).png "Screenshot solution xml (WinMerge)")
